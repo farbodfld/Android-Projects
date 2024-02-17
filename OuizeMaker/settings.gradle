@@ -1,0 +1,2 @@
+rootProject.name='Ouize Maker'
+include ':app'
